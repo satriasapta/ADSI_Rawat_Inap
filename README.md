@@ -5,6 +5,6 @@ Anggota :
 3. Yogi Andaru
 
 <h3>Sistem informasi ini membahas tentang kelola data dokter, yaitu : </h3>
-1. Input data dokter
-2. Edit data dokter
+1. Input data dokter \n
+2. Edit data dokter \n
 3. Hapus data dokter
